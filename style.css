@@ -1,0 +1,33 @@
+h1{
+    color: chartreuse;
+    text-align: center;
+}
+body{
+    background-image: url("images/6940314d2a9f736d71230214276f28d7.jpeg");
+    background-size: cover;
+}
+.pic1{
+    width: 400px;
+    height: 200px;
+}
+.main{
+    display: flex;
+}
+p{
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    color: cadetblue;
+}
+.main2{
+    display: flex;
+}
+.p2{
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    color: cadetblue;
+}
+.main3{
+    display: flex;
+}
